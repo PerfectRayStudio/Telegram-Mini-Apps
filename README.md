@@ -2,13 +2,13 @@
 
 Репозиторий с исходным кодом для Telegram Mini Apps - Документация API.
 
-🔗 Полезные ссылки:
+## 🔗 Полезные ссылки:
 
 https://perfectraystudio.github.io/Telegram-Mini-Apps
 
 https://t.me/perfectray_official
 
-✨ Наш проект:
+## ✨ Наш проект:
 
 https://aerox.world
 
