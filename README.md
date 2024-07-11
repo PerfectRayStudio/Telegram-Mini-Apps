@@ -1,8 +1,9 @@
 # 🏴‍☠️ Telegram-Mini-Apps (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Репозиторий с исходным кодом для Telegram Mini Apps - Документация API.
 
-Currently, two official plugins are available:
+Полезные ссылки:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://perfectraystudio.github.io/Telegram-Mini-Apps
+
+https://t.me/perfectray_official
